@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/circuit-breaker-hystrix/build/
+/circuit-breaker-hystrix/build/classes/java/main/
+/circuit-breaker-hystrix/build/classes/java/test/
+/circuit-breaker-resilience4j/build/
+/circuit-breaker-resilience4j/build/classes/java/main/
+/circuit-breaker-resilience4j/build/classes/java/test/
+/demo-api/build/
+/demo-api/build/classes/java/main/
+/demo-api/build/classes/java/test/
